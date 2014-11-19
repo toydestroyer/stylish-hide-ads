@@ -1,0 +1,12 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("facebook.com") {
+
+    ._4-u2._5v6e.cardRightCol {
+        display: none !important;
+    }
+
+    #pagelet_side_ads {
+        display: none !important;
+    }
+}

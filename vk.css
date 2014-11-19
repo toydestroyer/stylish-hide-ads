@@ -1,0 +1,17 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("vk.com") {
+
+  #left_ads {
+    display: none !important;
+  }
+
+  .ads_ads_news_wrap {
+    display: none !important;
+  }
+
+  #group_recom_wrap {
+    display: none !important;
+  }
+
+}
