@@ -2,11 +2,16 @@
 
 @-moz-document domain("facebook.com") {
 
-    ._4-u2._5v6e.cardRightCol {
-        display: none !important;
-    }
+  ._4-u2._5v6e.cardRightCol {
+    display: none !important;
+  }
 
-    #pagelet_side_ads {
-        display: none !important;
-    }
+  #pagelet_side_ads {
+    display: none !important;
+  }
+
+  #u_48_1 {
+    display: none !important;
+  }
+
 }
